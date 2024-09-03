@@ -3,8 +3,7 @@
 <p align="center">
 <a
 href =(https://whatsapp.com/channel/0029Vaf9jys9Bb5sQdJCOn3R)
-<img alt=support weight="10"
-src="(https://telegra.ph/file/a8b639aead927af2d834a.jpg)
+<"https://telegra.ph/file/a8b639aead927af2d834a.jpg>
   </p>
   <h1 align="center"> Patel md
 </h1
