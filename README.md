@@ -10,8 +10,6 @@ href =(https://whatsapp.com/channel/0029Vaf9jys9Bb5sQdJCOn3R)
 <p align="center">
 </p>
 
-<a arial-label="254768955165"
-
 
 ## DEPLOYMENT METHODS
 
