@@ -1,7 +1,7 @@
 
 
 
-<img src="https://telegra.ph/file/e8b7c16e84999f67a7759.jpg" widh="400" height="400" />
+<img "https://telegra.ph/file/e8b7c16e84999f67a7759.jpg">
 
   <h1 align="center"> Patel md
 </h1
