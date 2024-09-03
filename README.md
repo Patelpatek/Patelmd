@@ -1,2 +1,8 @@
-<hi align=`center`>whatsap bot developed by patel<hi>
-###Patel md###
+➡️➡️[`PATEL😈`](254768955165)⬅️⬅️TAP HERE TO CONTACT ME 
+
+
+ 
+
+
+
+
